@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "DOLSESSID_aed1a83df6ddfc8300d5a858885ff2eb022d04a9",
+      "value": "af9da8a7c0f9dbbd1d9f8901288809aa",
+      "domain": "49.249.29.4",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

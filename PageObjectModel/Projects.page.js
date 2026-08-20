@@ -26,7 +26,7 @@ class Project{
     }
     async createtask(){
         await this.newtask.click()
-        await this.tasklabel.selectOption('PJ2506-00010')
+        await this.tasklabel.fill("json")
         await this.childtask.selectOption('PJ2606-0049 > TK2606-0016 Setup Task')
         await this.clickadd.click()
     }

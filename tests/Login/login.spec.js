@@ -23,7 +23,7 @@ let data=JSON.parse(datafile)
 //with pom
 test("login page",async({page})=>{
    let lnpage= new loginpage(page)
-   let projectpage = new Project(page)
+  
    //launch url 
    await page.goto(data.url)
    //username
